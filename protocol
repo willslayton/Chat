@@ -1,0 +1,16 @@
+
+{
+    "universal": {
+        "PING": "PINGs client/server for keepalive."
+    },
+
+    "server": {
+        "WELC": "Sends message to client upon successful login."
+    },
+
+    "client": {
+        "LOGI": "Login using a provided {user:pass} key.",
+        "MESG": "Sends a message to be broadcast by the server.",
+        "REQU": "Requests message history from server."
+    }
+}

@@ -1,0 +1,8 @@
+Basic goals:
+* Use sockets/threading to esablish and handle server/client connection
+* Create database structures for User, Channel, Message, etc.
+* Custom protocol will provide only the barebones server/client commands needed
+
+Future goals:
+* Permissions system determine which Messages and Channels are accessible to Users
+* Messages fall off the database after 24 hours, similar to a BBS
